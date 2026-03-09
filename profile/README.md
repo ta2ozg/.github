@@ -1,13 +1,10 @@
 # Hello 👋
 
-I'm a seasoned Linux Kernel Engineer with extensive experience in AI, Blockchain, SecOps, DevOps and AIOps. My expertise spans System Design, Network Architecture, Cybersecurity, and Software Development.
+Over the years, I have focused deeply on networking stacks, system security and low level software design so my work and interests have often revolved around understanding how packets move through kernels, how operating systems enforce trust and how distributed systems can remain resilient under pressure. Along this path, I also developed a strong interest in BSD and traditional Unix philosophies, as well as the engineering heritage of Sun Microsystems (Fujitsu) and it's processor architectures.
 
-Creator of Atlastek AI,
-Creator of Goosey Blockchain,
-Contributing to the Linux Kernel,
-Contributions to the Rust.
+My inspirations include pioneers such as Linus Torvalds and along with many of the early architects of Unix and Linux who built systems that still power the backbone of modern infrastructure.
 
-Over the course of my career, I have authored multiple books and hold several patents. My work reflects a commitment to innovation, performance and secure technology solutions.
+Throughout my career, I have worked across network security, system architecture and cybersecurity, often exploring how operating systems, hardware and networks intersect. My perspective is shaped by the belief that robust systems are not accidental; they are the result of thoughtful engineering, open knowledge and relentless curiosity.
 
 📫 Please use my email address to contact me:
 
